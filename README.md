@@ -17,7 +17,7 @@ inspired by Django admin.
 
 ## Installation
 
-```shell
+```shell 655767
 > pip install fastapi-admin
 ```
 
